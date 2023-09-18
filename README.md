@@ -1,6 +1,6 @@
 # Conway's game of life
 
-This is an implementation of [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in Python, using PyGame for rendering.
+This is an implementation of [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in Python, using pygame for rendering.
 
 ![conway-demo](https://github.com/jmateusms/conway/assets/19481756/ac49dec5-5168-45c6-bced-9fb3537a125c)
 
