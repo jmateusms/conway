@@ -2,7 +2,7 @@
 
 This is an implementation of [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in Python, using PyGame for rendering.
 
-[Conway-20230918.webm](https://github.com/jmateusms/conway/assets/19481756/8dd37d20-64f3-42ba-9cbd-5aff4282ced6)
+[Demo video](https://github.com/jmateusms/conway/assets/19481756/8dd37d20-64f3-42ba-9cbd-5aff4282ced6)
 
 There are two game modes:
 
